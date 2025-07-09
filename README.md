@@ -90,18 +90,33 @@ A comprehensive **database-driven system** designed to manage crop diseases, irr
 
 ## 📦 Folder Structure
 Crop-Disease-Management/
+
 ├── diagrams/
+
 │ ├── erd.png
+
 │ ├── erd_reduced.png
+
 │ ├── overview.png
+
 │ └── crop_lifecycle.png
+
 ├── procedures/
+
 │ ├── disease_alert.sql
+
 │ ├── yield_prediction.sql
+
 │ └── pesticide_recommendation.sql
+
 ├── schema/
+
 │ ├── tables.sql
+
 │ └── relations.sql
+
 ├── ppt/
+
 │ └── project_presentation.pptx
+
 ├── README.md
