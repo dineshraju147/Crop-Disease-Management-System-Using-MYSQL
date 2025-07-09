@@ -89,34 +89,49 @@ A comprehensive **database-driven system** designed to manage crop diseases, irr
 ---
 
 ## 📦 Folder Structure
-Crop-Disease-Management/
 
-├── diagrams/
+---
 
-│ ├── erd.png
+## 🖼️ Visuals
 
-│ ├── erd_reduced.png
+### 📌 System Overview  
+![System Overview](diagrams/overview.png)
 
-│ ├── overview.png
+### 🌿 Crop Lifecycle  
+![Crop Lifecycle](diagrams/crop_lifecycle.png)
 
-│ └── crop_lifecycle.png
+### 📊 ER Diagram  
+![ER Diagram](diagrams/erd.png)
 
-├── procedures/
+---
 
-│ ├── disease_alert.sql
+## 📚 Client Requirements Summary
 
-│ ├── yield_prediction.sql
+- Track diseases and symptoms per crop.
+- Collect and analyze weather data for disease prediction.
+- Store detailed pesticide usage data.
+- Maintain crop growth and yield records.
+- Implement normalized relational schema and enforce data consistency.
 
-│ └── pesticide_recommendation.sql
+---
 
-├── schema/
+## 🚀 Future Enhancements
 
-│ ├── tables.sql
+- Integration with real-time weather APIs.
+- Web dashboard for farmers to query diseases and get alerts.
+- Mobile app support for field data entry.
+- AI-based yield forecasting using ML models.
 
-│ └── relations.sql
+---
 
-├── ppt/
+## 🧑‍💻 Author
 
-│ └── project_presentation.pptx
+**Dinesh Kumar Raju Kattunga**  
+[LinkedIn](https://linkedin.com/in/dineshkumarraju0223/) | [GitHub](https://github.com/dineshraju147)
 
-├── README.md
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
