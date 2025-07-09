@@ -101,7 +101,7 @@ A comprehensive **database-driven system** designed to manage crop diseases, irr
 ![Crop Lifecycle](diagrams/crop_lifecycle.png)
 
 ### 📊 ER Diagram  
-![ER Diagram](diagrams/erd.png)
+![ER Diagram](ERD SQL.png)
 
 ---
 
